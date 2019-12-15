@@ -58,6 +58,7 @@
                              (const :tag "Stash/Bitbucket Server" "stash")
                              (const :tag "git.savannah.gnu.org" "gnu")
                              (const :tag "Phabricator" "phabricator")
+			     (const :tag "Beanstalkapp" "beanstalk")
                              (const :tag "gist.github.com" "gist")
                              (const :tag "sourcehut" "sourcehut")))
   :group 'browse-at-remote)
